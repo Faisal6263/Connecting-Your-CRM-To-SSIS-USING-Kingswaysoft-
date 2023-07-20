@@ -1,0 +1,28 @@
+In this video everything is shown how to connect your crm instance to your ssis tool box using kingswaysoft 
+
+step 1 - register and application in azure portal
+step 2  create a client secret id 
+
+go to your development environment settings and add application that you just created in the azure add the application and give it security role of administrator 
+Now you got all of the things ready for your ssis toolbox connection manager that you need 
+
+
+
+
+--------------------------------------------------------------
+
+CRM CONNECTION MANAGER 
+
+--------------------------------------------------------------
+
+Service end point - Soap 2011 , D365 CE , Dataverse CRM 2016 , 15 , 13 , 11
+Authentication Type - Oauth (Dynamics 365  online or on premise )
+Oauth Type - Client credentials 
+
+CDS/CRM SERVER URL - For ex - https://org8490b805.crm.dynamics.com/
+
+
+
+-------------------------------------------------------------------------------------------------------> Youtube Video reference 
+
+https://www.youtube.com/watch?v=9_UnrDTvfn8
